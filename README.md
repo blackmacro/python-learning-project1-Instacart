@@ -11,6 +11,12 @@ Population flow after all wrangling steps:
 <img width="1284" alt="image" src="https://user-images.githubusercontent.com/106022443/204592102-cd494e99-1579-4149-a283-de9e43931cba.png">
 
 
+Consistency checks:
+
+<img width="1320" alt="image" src="https://user-images.githubusercontent.com/106022443/204592565-7561133f-dc67-4f5d-88d3-9feb5901dff8.png">
+
+
+
 Looking for insights :-) i.e. Time of day (featured engineered) and distribution of shoppers:
 
 
