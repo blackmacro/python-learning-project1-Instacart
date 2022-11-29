@@ -6,6 +6,11 @@ Project using Instacart data,
 - EDA
 - Feature Engineering
 
+Population flow after all wrangling steps:
+
+<img width="1284" alt="image" src="https://user-images.githubusercontent.com/106022443/204592102-cd494e99-1579-4149-a283-de9e43931cba.png">
+
+
 Looking for insights :-) i.e. Time of day (featured engineered) and distribution of shoppers:
 
 
